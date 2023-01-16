@@ -65,7 +65,7 @@ export default {
       </div>
       <div class="row-1">
           <div class="button keys" @click="clear">AC</div>
-          <div class="button keys" @click="cancel">+/_</div>
+          <div class="button keys" @click="">+/_</div>
           <div class="button keys" @click="enter('%')">%</div>
           <div class="button operator" @click="enter('/')">÷</div>
       </div>
